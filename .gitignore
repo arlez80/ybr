@@ -1,0 +1,9 @@
+.vscode/*
+blender/__pycache__/*
+tools/__pycache__/*
+*.dblite
+bin/*
+test/*
+*.obj
+*.bat
+NOTES.md
